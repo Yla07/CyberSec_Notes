@@ -1,5 +1,4 @@
 [[Connection types and their function]]
 
-[[OS-Independent Troubleshooting]]
-
+[[Basics of Computer Networking]]
 
