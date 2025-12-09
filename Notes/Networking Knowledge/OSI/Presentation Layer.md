@@ -1,0 +1,1 @@
+The data from the application layer is extracted here and manipulated as per the required format to transmit over the network

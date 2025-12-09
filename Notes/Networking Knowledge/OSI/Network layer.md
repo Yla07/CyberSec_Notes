@@ -1,0 +1,1 @@
+It is responsible for transmission of data from one host to the other located in different networks. It also takes care of packet routing that is selection of the shortest path to transmit the packet, from the number of routes available.

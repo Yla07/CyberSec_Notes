@@ -5,3 +5,5 @@
 - ***Node*** - any device that is connected to the network and can interact with other devices on the network.
 - ***Networking devices*** - are devices that manage and support networking functions, including routers, switches hubs and access points.
 - ***Transmission Media*** - physical or wireless medium that connects the devices.
+
+
