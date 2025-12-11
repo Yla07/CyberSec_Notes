@@ -1,0 +1,3 @@
+a client server protocol that operates over [[TCP/IP]]. Uses two communication channels: the command channel and data channel. Clients request acess trough command channel and receive access to download, edit and copy the file among other actions trough the data channel .
+
+FTP doesn't encrypt data and sends it in plain text making it vulnerable  therefore businese use file transfer protocols that are safer  such as [[SFTP]] ( SSH File Transfer Protocol) to transfer data over a network

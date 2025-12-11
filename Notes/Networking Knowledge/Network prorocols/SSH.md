@@ -1,0 +1,1 @@
+Its widely used for remote administration of servers , network devices and other systems. It automates many tasks on these remote systems including software updates, backups and system monitoring. Also it offers tunneling or port forwarding which allows data packets to traverse networks that are otherwise inaccessible.

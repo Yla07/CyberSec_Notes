@@ -1,0 +1,3 @@
+IP functions similarly to a postal service. When users send and receive data from their devices, the data gets spliced into packets. Packets are like letters with two IP addresses: one for the sender and one for the recipient.
+
+After the packet leaves the sender, it goes to a gateway or router, similar to a post office, which guides it toward its destination. Packets continue to travel through several gateways until they reach their destinations.

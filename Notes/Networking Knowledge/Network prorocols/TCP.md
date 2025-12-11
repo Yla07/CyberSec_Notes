@@ -1,0 +1,1 @@
+It arranges packets in order after [[IP]] has delivered them. TCP numbers individual packets because IP can send packets to their destinations through different routes and get them out of order. TCP checks and reassembles the packets at the destination before delivering them to the application.

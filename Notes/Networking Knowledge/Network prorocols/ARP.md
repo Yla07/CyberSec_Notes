@@ -1,0 +1,3 @@
+ARP is necessary because [[IP]] and [MAC](obsidian://open?vault=CyberSecurityNotes&file=CyberSecurity%2FNotes%2FShared%2FTerminology) addresses are different lengths and operate on different layers of the [[OSI model]].
+
+These addresses must be mapped for proper network communication and data transfer among connected devices. ARP isn't required every time devices attempt to communicate because the LAN's host system maps and stores the associations in its ARP cache.

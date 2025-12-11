@@ -1,0 +1,3 @@
+It  controls how email clients send users' email messages. Email servers use SMTP to send email messages from the client to the email server to the receiving email server. It doesn't control how email clients receive messages  only how clients send messages. It's just a mail delivery protocol and not used for retrieval of messages.
+ 
+SMTP requires other protocols to ensure email messages are sent and received properly. It can work with ***POP3*** (Post Office Protocol 3) or ***IMAP*** (Internet Message Access Protocol), both of which control how an email server receives email messages.

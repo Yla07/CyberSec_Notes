@@ -1,0 +1,1 @@
+ICMP is a supporting protocol on the internet layer of the TCP/IP model. It's mainly used for network diagnostics, troubleshooting, error reporting and some limited control functions between network devices. It helps identify network connectivity issues and manage the flow of data packets. However, it doesn't transfer data, such as the content of a webpage or an email.
